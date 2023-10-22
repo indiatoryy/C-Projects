@@ -20,4 +20,5 @@ The identified seam with the lowest energy is removed from the image, effectivel
 
 ## Example
 The image below shows an original image, a visualization of the seam identification, and the cropped image after seam removal.
-![castle1-1](https://github.com/indiatoryy/C-Projects/assets/105636722/1d5c1c2c-05e5-41bb-bde6-5731b6718625)
+![castle1-1](https://github.com/indiatoryy/C-Projects/assets/105636722/afbb7d76-0538-420f-b5c6-99a9e1eabdf1)
+
